@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 
 
 
-<div align="center">
-  <img src="https://github.com/sarnali3515/sarnali3515/blob/main/banner.png" alt="Banner" width="100%" />
-</div>
-
 <hr>
 
 - 🌱 I’m currently learning **Django**
