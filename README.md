@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
    
    <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,python,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=javascript,mongodb,mysql,postgreesql /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,django,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=javascript,mongodb,mysql,postgresql" /><br>
 </div>
 <hr>
 
