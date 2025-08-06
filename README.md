@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django**, **FastAPI**, **Flutter**
 - 📫 How to reach me **isratarazahin204@gmail.com**
 - 🔍 Exploring: Next.js (React), Tailwind, Next.js
 - 💼 Open to freelance projects in web and app development
