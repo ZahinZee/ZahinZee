@@ -1,72 +1,97 @@
-
-
-<!--
-**ZahinZee/ZahinZee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
-
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<h1 align="center">Hi 👋, I'm Zahin</h1>
-<h3 align="center">Backend developer</h3>
+<div align="center">
+  
+  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+  <!-- 🎯 ANIMATED HEADER                                                          -->
+  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+  
+  <img src="./assets/header-animation.svg" alt="Israt Zahin - Full-Stack Engineer" width="100%"/>
+  
+  <br/>
+  
+  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+  <!-- 📊 PROFILE BADGES                                                           -->
+  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+  
+  <a href="https://github.com/ZahinZee">
+    <img src="https://komarev.com/ghpvc/?username=ZahinZee&label=Profile%20Views&color=764ba2&style=flat-square&base=1700" alt="Profile Views"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/ZahinZee?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FZahinZee&query=%24.public_repos&suffix=%2B&label=Repositories&style=flat-square&color=f093fb&labelColor=1a1b26" alt="Repositories"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/ZahinZee?tab=followers">
+    <img src="https://img.shields.io/github/followers/ZahinZee?label=Followers&style=flat-square&color=667eea&labelColor=1a1b26" alt="Followers"/>
+  </a>
+  &nbsp;
+  
+</div>
 
+<br/>
+<hr>
 
+- 📫 Reach me at **isratarazahin204@gmail.com**
+- 💼 Open to freelance projects in web & app development
 
 <hr>
 
-- 🌱 I’m currently learning **Django**, **FastAPI**, **Flutter**
-- 📫 How to reach me **isratarazahin204@gmail.com**
-- 🔍 Exploring: Next.js (React), Tailwind, Next.js
-- 💼 Open to freelance projects in web and app development
-
-
-
-<hr>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/israt-ara-zahin-b807ba201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/israt-ara-zahin-b807ba201/" height="30" width="40" /></a>
-
+  <a href="https://www.linkedin.com/in/israt-ara-zahin-b807ba201/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
 </p>
 
 <hr>
 
-<h3 align="left">Languages and Tools:</h3>
-   
-   <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,django,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=javascript,mongodb,mysql,postgresql" /><br>
+<h3 align="left">Frontend</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs" />
 </div>
+
+<h3 align="left">Backend</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi" />
+</div>
+
+<h3 align="left">Database</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
+</div>
+
+<h3 align="left">Mobile & Tooling</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,git,github,vscode,figma" />
+</div>
+
 <hr>
 
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 📊 GITHUB ANALYTICS                                                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
+<img src="./assets/section-stats.svg" width="220"/>
+
+<br/><br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZahinZee&show_icons=true&locale=en&layout=compact" alt="ZahinZee"  width="500" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZahinZee&" alt="ZahinZee" width="500" />
-</div>
-
-<!--
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![JavaScript](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Zahin&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Zahin&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zahin&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Zahin&icon=0&color=0)](https://visitcount.itsvg.in)
-
- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
+  <!-- GitHub Stats + Custom Streak in ONE ROW -->
+  <a href="https://github.com/ZahinZee">
+    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ZahinZee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/ZahinZee">
+    <img height="195em" src="./assets/streak.svg" alt="GitHub Streak"/>
+  </a>
+  
+  <br/><br/>
+  
+  <!-- 📊 REAL-TIME LANGUAGE USAGE WITH PROGRESS BARS -->
+  <a href="https://github.com/ZahinZee">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZahinZee&layout=normal&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8&card_width=400" alt="Top Languages" />
+  </a>
+  
+  <br/><br/>
