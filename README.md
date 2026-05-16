@@ -1,5 +1,3 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-
 <div align="center">
   
   <!-- ═══════════════════════════════════════════════════════════════════════════ -->
@@ -80,12 +78,10 @@
   
   <!-- GitHub Stats + Custom Streak in ONE ROW -->
   <a href="https://github.com/ZahinZee">
-    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ZahinZee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/ZahinZee">
-    <img height="195em" src="./assets/streak.svg" alt="GitHub Streak"/>
-  </a>
+  <img height="195em" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ZahinZee&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=f093fb"
+    alt="GitHub Streak"/>
+</a>
   
   <br/><br/>
   
@@ -95,3 +91,6 @@
   </a>
   
   <br/><br/>
+
+  ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+
