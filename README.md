@@ -32,9 +32,6 @@
 
 Building scalable web apps, APIs and modern digital experiences.
 
-- 📫 Reach me at **isratarazahin204@gmail.com**
-- 💼 Open to freelance projects in web & app development
-
 <hr>
 
 ### ✦ Frontend
@@ -86,10 +83,6 @@ Building scalable web apps, APIs and modern digital experiences.
 <br>
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ZahinZee&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15&rank=-UNKNOWN"/>
-
-<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZahinZee&bg_color=0d1117&color=667eea&line=f093fb&point=764ba2&hide_border=true"/>
 
