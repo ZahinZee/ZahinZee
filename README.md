@@ -1,97 +1,138 @@
 <div align="center">
-  
-  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-  <!-- 🎯 ANIMATED HEADER                                                          -->
-  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-  
-  <img src="./assets/header-animation.svg" alt="Israt Zahin - Full-Stack Engineer" width="100%"/>
-  
-  <br/>
-  
-  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-  <!-- 📊 PROFILE BADGES                                                           -->
-  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-  
-  <a href="https://github.com/ZahinZee">
-    <img src="https://komarev.com/ghpvc/?username=ZahinZee&label=Profile%20Views&color=764ba2&style=flat-square&base=1700" alt="Profile Views"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/ZahinZee?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FZahinZee&query=%24.public_repos&suffix=%2B&label=Repositories&style=flat-square&color=f093fb&labelColor=1a1b26" alt="Repositories"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/ZahinZee?tab=followers">
-    <img src="https://img.shields.io/github/followers/ZahinZee?label=Followers&style=flat-square&color=667eea&labelColor=1a1b26" alt="Followers"/>
-  </a>
-  &nbsp;
-  
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:7c3aed&height=180&section=header&text=Israt%20Zahin&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=ML%20Researcher%20%C2%B7%20Full-Stack%20Engineer&descSize=18&descAlignY=58" width="100%" alt="Israt Zahin"/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=7C3AED&center=true&vCenter=true&width=620&lines=Deep+learning+for+medical+imaging;Hybrid+CNN%E2%80%93RNN+models+for+chest+X-rays;Production+APIs+with+FastAPI+%2B+PostgreSQL;Next.js+frontends%2C+Docker%2C+AWS" alt="Typing intro"/></a>
+
+<br/>
+
+<a href="https://doi.org/10.1038/s41598-026-45842-1"><img src="https://img.shields.io/badge/Paper-Read-1e3a8a?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Paper"/></a>
+<a href="https://www.researchgate.net/profile/Israt-Zahin?ev=hdr_xprf"><img src="https://img.shields.io/badge/Research-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
+<a href="https://www.linkedin.com/in/israt-ara-zahin-b807ba201/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://zahinzee.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+
 </div>
 
 <br/>
-<hr>
 
-Building scalable web apps, APIs and modern digital experiences.
 
-<hr>
 
-### ✦ Frontend
+Hey there, I'm a **machine learning researcher** and a **full-stack software engineer** based in Dhaka, Bangladesh.
+
+My research applies deep learning to medical image analysis, mainly hybrid CNN–RNN models for
+diagnosing lung disease from chest X-rays. In industry, I build production web platforms end to
+end, from async Python APIs and databases to Next.js frontends, CI/CD and AWS deployments.
+Working on both sides means my research code is built to be run, tested and reproduced, not
+just to produce a result once.
+
+- 🎓 B.Sc. in [Computer Science and Engineering].
+- 🔬 Research collaboration with the **C2SG group, United International University**
+- 💼 Full-Stack Engineer at **Ternary Solutions**, building production SaaS platforms
+- 🌱 Interested in: medical image analysis · trustworthy ML in healthcare · ML systems in production
+
+> **On affiliation:** I did my published research with the C2SG group at United International
+> University while studying at BRAC University, so the paper lists UIU as the affiliation.
+
+<br/>
+
+## 🔬 Research
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Lung Disease Recognition with CNN–RNN
+
+**Enhancing lung diseases recognition through CNN-RNN methodologies**<br/>
+*[Nature], [2026]*
+
+A hybrid model that classifies chest X-rays as COVID-19, lung opacity, viral pneumonia or
+normal. A CNN extracts spatial features and an LSTM models dependencies across image patches.
+
+📊 **93.73% accuracy · 94.6% macro-F1** on the COVID-19 Radiography Database (~21k images)
+
+<a href="https://doi.org/10.1038/s41598-026-45842-1"><img src="https://img.shields.io/badge/Paper-1e3a8a?style=flat-square&logo=readthedocs&logoColor=white" alt="Paper"/></a>
+<a href="https://github.com/ZahinZee/Enhancing_Lung_Diseases_Recognition_Through_CNN-RNN_Methodologies"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### Exoplanet Mass–Radius Relations
+
+**A Regime-Based Empirical Study**<br/>
+*Independent research*
+
+Fits mass–radius relations across planet size regimes and examines which transiting
+exoplanets are likely to retain water.
+
+
+
+<a href="https://github.com/ZahinZee/Mass-Radius-Relations-and-Water-Retention-in-Transiting-Exoplanets-A-Regime-Based-Empirical-Study"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Engineering
+
+I ship production software as part of a team: typed APIs, relational schemas and migrations,
+background workers, automated tests and CI/CD, and infrastructure as code.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Backend**
+- Async REST APIs with FastAPI, SQLAlchemy 2 and PostgreSQL
+- Auth (JWT, password hashing, rate limiting), role-based access
+- Celery + Redis background jobs and transactional email
+- Alembic migrations that deploy safely with zero downtime
+
+</td>
+<td width="50%" valign="top">
+
+**Frontend & DevOps**
+- Next.js (App Router), React and TypeScript with Tailwind
+- Unit tests (Vitest) and end-to-end tests (Playwright)
+- Docker, GitHub Actions CI/CD
+- AWS (ECS, RDS, S3) managed with Terraform
+
+</td>
+</tr>
+</table>
+
+### Featured projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [docker-ci-cd-app](https://github.com/ZahinZee/docker-ci-cd-app) | Containerised Python app with an automated CI/CD pipeline | Python · Docker · GitHub Actions |
+| [authentication_app](https://github.com/ZahinZee/authentication_app) | Authentication service with secure login flows | Python |
+| [webhook-tester](https://github.com/ZahinZee/webhook-tester) | Captures and inspects incoming webhook payloads | Python |
+
+<br/>
+
+## 🧰 Tech stack
+
 <div align="center">
-  
-  ![HTML5](https://img.shields.io/badge/HTML5-667eea?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-764ba2?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-f093fb?style=for-the-badge&logo=javascript&logoColor=white)
-  ![React](https://img.shields.io/badge/React-667eea?style=for-the-badge&logo=react&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-764ba2?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/Next.js-1a1b26?style=for-the-badge&logo=next.js&logoColor=white)
+
+**Machine learning**<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,anaconda&theme=dark" alt="ML stack"/>
+
+<br/><br/>
+
+**Full-stack & cloud**<br/><br/>
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,ts,nextjs,react,tailwind,docker,aws,terraform,githubactions,git&theme=dark" alt="Engineering stack"/>
+
 </div>
 
-### ✦ Backend
-<div align="center">
-  
-  ![Python](https://img.shields.io/badge/Python-667eea?style=for-the-badge&logo=python&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-764ba2?style=for-the-badge&logo=django&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-f093fb?style=for-the-badge&logo=fastapi&logoColor=white)
-</div>
-
-### ✦ Database
-<div align="center">
-  
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-667eea?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-764ba2?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-f093fb?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</div>
-
-### ✦ Mobile & Tooling
-<div align="center">
-  
-  ![Flutter](https://img.shields.io/badge/Flutter-667eea?style=for-the-badge&logo=flutter&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-764ba2?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=white)
-  ![VSCode](https://img.shields.io/badge/VSCode-f093fb?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-667eea?style=for-the-badge&logo=figma&logoColor=white)
-</div>
-
-<hr>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 📊 GITHUB ANALYTICS                                                         -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<img src="./assets/section-stats.svg" width="220"/>
-
-<br>
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZahinZee&bg_color=0d1117&color=667eea&line=f093fb&point=764ba2&hide_border=true"/>
+*Open to research collaborations and graduate research opportunities in medical imaging and applied ML.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:1e3a8a&height=100&section=footer" width="100%" alt=""/>
 
 </div>
-
-<hr>
-
-### ✦ Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-667eea?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israt-ara-zahin-b807ba201/)
-[![Email](https://img.shields.io/badge/Email-f093fb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isratara@gmail.com)
-  <br/><br/>
