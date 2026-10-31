@@ -1,17 +1,14 @@
-<div align="center">
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Israt Zahin — ML researcher in medical imaging and full-stack engineer"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:7c3aed&height=180&section=header&text=Israt%20Zahin&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=ML%20Researcher%20%C2%B7%20Full-Stack%20Engineer&descSize=18&descAlignY=58" width="100%" alt="Israt Zahin"/>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=7C3AED&center=true&vCenter=true&width=620&lines=Deep+learning+for+medical+imaging;Hybrid+CNN%E2%80%93RNN+models+for+chest+X-rays;Production+APIs+with+FastAPI+%2B+PostgreSQL;Next.js+frontends%2C+Docker%2C+AWS" alt="Typing intro"/></a>
-
-<br/>
-
-<a href="https://doi.org/10.1038/s41598-026-45842-1"><img src="https://img.shields.io/badge/Paper-Read-1e3a8a?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Paper"/></a>
-<a href="https://www.researchgate.net/profile/Israt-Zahin?ev=hdr_xprf"><img src="https://img.shields.io/badge/Research-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
-<a href="https://www.linkedin.com/in/israt-ara-zahin-b807ba201/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://zahinzee.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
-
-</div>
+<p align="center">
+  <a href="[DOI link]"><img src="https://img.shields.io/badge/Paper-0b1020?style=for-the-badge&logo=readthedocs&logoColor=22d3ee" alt="Paper"/></a>
+  <a href="[Google Scholar link]"><img src="https://img.shields.io/badge/Scholar-0b1020?style=for-the-badge&logo=googlescholar&logoColor=4285F4" alt="Google Scholar"/></a>
+  <a href="[LinkedIn link]"><img src="https://img.shields.io/badge/LinkedIn-0b1020?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+  <a href="mailto:[email]"><img src="https://img.shields.io/badge/Email-0b1020?style=for-the-badge&logo=gmail&logoColor=a78bfa" alt="Email"/></a>
+  <a href="https://zahinzee.github.io"><img src="https://img.shields.io/badge/Portfolio-0b1020?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+</p>
 
 <br/>
 
@@ -129,10 +126,11 @@ background workers, automated tests and CI/CD, and infrastructure as code.
 
 <br/>
 
-<div align="center">
+<br/>
 
-*Open to research collaborations and graduate research opportunities in medical imaging and applied ML.*
+<p align="center">
+  <sub>Open to research collaborations and graduate research opportunities in medical imaging and applied ML.</sub>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:1e3a8a&height=100&section=footer" width="100%" alt=""/>
+<img src="assets/footer.svg" width="100%" alt=""/>
 
-</div>
