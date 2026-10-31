@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 100" width="1200" height="100" role="img" aria-label="A heartbeat line">
+  <defs>
+    <linearGradient id="beat" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <filter id="soft" x="-5%" y="-50%" width="110%" height="200%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+  </defs>
+
+  <style>
+    .line { fill: none; stroke: url(#beat); stroke-linecap: round; stroke-linejoin: round; }
+    .pulse { stroke-dasharray: 140 860; animation: run 4.5s linear infinite; }
+    @keyframes run { from { stroke-dashoffset: 1000; } to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .pulse { animation: none; stroke-dasharray: none; opacity: 0.6; } }
+  </style>
+
+  <!-- ECG trace: flat baseline with three beats -->
+  <path class="line" pathLength="1000" stroke-width="1.5" opacity="0.22" d="M0 50 H240 l12 -6 l12 6 l16 0 l6 8 l10 -46 l10 54 l8 -16 l20 0 q14 -14 28 0 H540 l12 -6 l12 6 l16 0 l6 8 l10 -46 l10 54 l8 -16 l20 0 q14 -14 28 0 H840 l12 -6 l12 6 l16 0 l6 8 l10 -46 l10 54 l8 -16 l20 0 q14 -14 28 0 H1200"/>
+  <path class="line pulse" pathLength="1000" stroke-width="6" opacity="0.5" filter="url(#soft)" d="M0 50 H240 l12 -6 l12 6 l16 0 l6 8 l10 -46 l10 54 l8 -16 l20 0 q14 -14 28 0 H540 l12 -6 l12 6 l16 0 l6 8 l10 -46 l10 54 l8 -16 l20 0 q14 -14 28 0 H840 l12 -6 l12 6 l16 0 l6 8 l10 -46 l10 54 l8 -16 l20 0 q14 -14 28 0 H1200"/>
+  <path class="line pulse" pathLength="1000" stroke-width="2.5" d="M0 50 H240 l12 -6 l12 6 l16 0 l6 8 l10 -46 l10 54 l8 -16 l20 0 q14 -14 28 0 H540 l12 -6 l12 6 l16 0 l6 8 l10 -46 l10 54 l8 -16 l20 0 q14 -14 28 0 H840 l12 -6 l12 6 l16 0 l6 8 l10 -46 l10 54 l8 -16 l20 0 q14 -14 28 0 H1200"/>
+</svg>
